@@ -1,1 +1,1 @@
-['US Major League Soccer', 'Sporting Kansas City vs Minnesota United FC', 'Austin FC vs Los Angeles Football Club', 'Portland Timbers vs Colorado Rapids', 'LA Galaxy vs Houston Dynamo FC', 'San Jose Earthquakes vs Real Salt Lake']
+['Champions League', 'Besiktas vs Sporting CP', 'Club Brugge vs Manchester City', 'Ajax vs Borussia Dortmund', 'Atlético de Madrid vs Liverpool', 'FC Porto vs Milan', 'Internazionale vs Sheriff Tiraspol', 'Paris Saint-Germain vs RB Leipzig', 'Shakhtar Donetsk vs Real Madrid']
