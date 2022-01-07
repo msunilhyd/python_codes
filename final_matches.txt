@@ -1,1 +1,1 @@
-['Champions League', 'Besiktas vs Sporting CP', 'Club Brugge vs Manchester City', 'Ajax vs Borussia Dortmund', 'Atlético de Madrid vs Liverpool', 'FC Porto vs Milan', 'Internazionale vs Sheriff Tiraspol', 'Paris Saint-Germain vs RB Leipzig', 'Shakhtar Donetsk vs Real Madrid']
+['Spanish Copa Del Rey', 'Fuenlabrada vs Cádiz', 'Girona vs Osasuna', 'Real Zaragoza vs Sevilla', 'Sporting de Gijón vs Villarreal', 'Almería vs Elche', 'Atlético Mancha Real vs Athletic Club', 'Rayo Majadahonda vs Atlético de Madrid']
